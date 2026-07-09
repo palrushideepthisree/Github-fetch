@@ -79,10 +79,6 @@ npm run dev
 * State Management
 * Error Handling
 
-## Screenshots
-
-_Add screenshots of the application here._
-
 ## Future Improvements
 
 * Display user repositories
